@@ -14,3 +14,5 @@ Manipulez une base de données avec SQL pour analyser une activité de retour
  - Charger les données dans la base
  - Réaliser des requêtes dans la base de données
  - Réaliser une présentation à destination des collaborateurs
+
+Important : La base de données étant trop volumineuse pour la rajouter sur mon Github, j'ai créé un lien y conduisant sur mon Google Drive.
